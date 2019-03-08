@@ -22,9 +22,9 @@ public class ListAlgorithms
         String setName,
         Set<String> algorithms)
     {
-        System.out.println("----------------------------------------------------");
+        System.out.println("--------------------------------------------------------------------");
         System.out.println(setName);
-        System.out.println("----------------------------------------------------");
+        System.out.println("--------------------------------------------------------------------");
         
         if (algorithms.isEmpty())
         {
