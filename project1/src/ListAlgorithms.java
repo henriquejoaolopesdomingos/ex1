@@ -28,9 +28,9 @@ public class ListAlgorithms
         
         if (algorithms.isEmpty())
         {
-	    System.out.println("------------------------------------------------");
+	    System.out.println("--------------------------------------------");
             System.out.println("            None available.");
-	    System.out.println("------------------------------------------------");
+	    System.out.println("--------------------------------------------");
         }
         else
         {
