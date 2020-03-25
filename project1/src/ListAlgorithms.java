@@ -1,5 +1,5 @@
 /** 
- * Materiais/Labs para SRSC 19/20, Sem-2
+ * Materiais/Labs para SRSC 19/20, Sem-2, Versão Nova
  * Henrique Domingos, 12/3/19
  **/
 
