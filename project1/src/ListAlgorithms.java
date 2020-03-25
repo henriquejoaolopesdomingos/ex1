@@ -1,5 +1,5 @@
 /** 
- * Materiais/Labs para SRSC 19/20, Sem-2, Versão Nova
+ * Materiais/Labs para SRSC 19/20, Sem-2, Versão Nova outravez
  * Henrique Domingos, 12/3/19
  **/
 
@@ -8,6 +8,7 @@ import java.security.Security;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
+
 
 public class ListAlgorithms
 {
